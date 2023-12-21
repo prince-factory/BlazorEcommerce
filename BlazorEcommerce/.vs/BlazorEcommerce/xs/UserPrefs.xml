@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{DBE96689-6EDB-40C5-A09B-DF470BB7F259}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommerce.Client FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommerce.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BlazorEcommerce.Server FirstBuild="True" />
+</Properties>

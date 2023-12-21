@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/princessebatey/Desktop/BlazorEcommerce/Server/BlazorEcommerce.Server.csproj": {}
+  },
+  "projects": {
+    "/Users/princessebatey/Desktop/BlazorEcommerce/Client/BlazorEcommerce.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/princessebatey/Desktop/BlazorEcommerce/Client/BlazorEcommerce.Client.csproj",
+        "projectName": "BlazorEcommerce.Client",
+        "projectPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Client/BlazorEcommerce.Client.csproj",
+        "packagesPath": "/Users/princessebatey/.nuget/packages/",
+        "outputPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/princessebatey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/BlazorEcommerce.Shared.csproj": {
+                "projectPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/BlazorEcommerce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/princessebatey/Desktop/BlazorEcommerce/Server/BlazorEcommerce.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/princessebatey/Desktop/BlazorEcommerce/Server/BlazorEcommerce.Server.csproj",
+        "projectName": "BlazorEcommerce.Server",
+        "projectPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Server/BlazorEcommerce.Server.csproj",
+        "packagesPath": "/Users/princessebatey/.nuget/packages/",
+        "outputPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/princessebatey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/princessebatey/Desktop/BlazorEcommerce/Client/BlazorEcommerce.Client.csproj": {
+                "projectPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Client/BlazorEcommerce.Client.csproj"
+              },
+              "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/BlazorEcommerce.Shared.csproj": {
+                "projectPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/BlazorEcommerce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/BlazorEcommerce.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/BlazorEcommerce.Shared.csproj",
+        "projectName": "BlazorEcommerce.Shared",
+        "projectPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/BlazorEcommerce.Shared.csproj",
+        "packagesPath": "/Users/princessebatey/.nuget/packages/",
+        "outputPath": "/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/princessebatey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

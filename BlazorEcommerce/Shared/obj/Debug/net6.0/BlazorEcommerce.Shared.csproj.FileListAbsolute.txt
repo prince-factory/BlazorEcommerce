@@ -1,0 +1,12 @@
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/bin/Debug/net6.0/BlazorEcommerce.Shared.deps.json
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/bin/Debug/net6.0/BlazorEcommerce.Shared.dll
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/bin/Debug/net6.0/BlazorEcommerce.Shared.pdb
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/BlazorEcommerce.Shared.csproj.AssemblyReference.cache
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/BlazorEcommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/BlazorEcommerce.Shared.AssemblyInfoInputs.cache
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/BlazorEcommerce.Shared.AssemblyInfo.cs
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/BlazorEcommerce.Shared.csproj.CoreCompileInputs.cache
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/BlazorEcommerce.Shared.dll
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/refint/BlazorEcommerce.Shared.dll
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/BlazorEcommerce.Shared.pdb
+/Users/princessebatey/Desktop/BlazorEcommerce/Shared/obj/Debug/net6.0/ref/BlazorEcommerce.Shared.dll
